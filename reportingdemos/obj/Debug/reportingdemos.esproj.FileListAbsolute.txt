@@ -1,0 +1,4 @@
+C:\Projects\Progress\ReportingDemos\ReportingDemos\obj\Debug\reportingdemos.esproj.SuggestedBindingRedirects.cache
+C:\Projects\Progress\ReportingDemos\ReportingDemos\obj\Debug\reportingdemos.esproj.CoreCompileInputs.cache
+C:\Projects\Progress\ReportingDemos_Last_Without_Viewer\ReportingDemos\obj\Debug\reportingdemos.esproj.SuggestedBindingRedirects.cache
+C:\Projects\Progress\ReportingDemos_Last_Without_Viewer\ReportingDemos\obj\Debug\reportingdemos.esproj.CoreCompileInputs.cache
